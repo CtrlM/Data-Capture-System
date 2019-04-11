@@ -1,0 +1,32 @@
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\bin\Debug\Windows Project.exe.config
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\bin\Debug\Windows Project.exe
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\bin\Debug\Windows Project.pdb
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows Project.csprojResolveAssemblyReference.cache
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.frmSuppliers.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.LogIn.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Main.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Properties.Resources.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows Project.csproj.GenerateResource.Cache
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows Project.exe
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows Project.pdb
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Users.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Categories.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Customers.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Products.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Exercises\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.shippers.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\bin\Debug\Windows Project.exe.config
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows Project.exe
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows Project.pdb
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\bin\Debug\Windows Project.exe
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\bin\Debug\Windows Project.pdb
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Categories.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Customers.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.frmSuppliers.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.LogIn.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Main.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Products.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Properties.Resources.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.shippers.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows_Project.Users.resources
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows Project.csproj.GenerateResource.Cache
+C:\Users\Sanele Msomi\Documents\WW.IT-IQ\Sanele Msomi\Project\Windows Project\Windows Project\Windows Project\obj\Debug\Windows Project.csprojResolveAssemblyReference.cache
